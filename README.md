@@ -1,4 +1,4 @@
- <h1 align="center">Drag-And-Drop</h1>
+ <h1 align="center">Forkify</h1>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -8,13 +8,13 @@
     <img src="./images/apple-touch-icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Drag-And-Drop</h3>
+  <h3 align="center">Forkify</h3>
 <br/>
 </p>
 
 ### LIVE
 
-https://dakarakoso.github.io/Drag-And-Drop/
+https://dakarakoso.github.io/Forkify/
 
 <!-- TABLE OF CONTENTS -->
 
@@ -45,14 +45,14 @@ https://dakarakoso.github.io/Drag-And-Drop/
 
 ## Usage
 
-![Drag-And-Drop](https://github.com/Dakarakoso/Drag-And-Drop/blob/main/images/usage.gif)
+![Forkify](https://github.com/Dakarakoso/Forkify/blob/main/images/usage.gif)
 
 <!-- CONTACT -->
 
 ## Contact
 
 Willian Negishi - willian_jvm@hotmail.com
-Project Link: [https://github.com/Dakarokoso/Drag-And-Drop](https://github.com/Dakarakoso/Drag-And-Drop)
+Project Link: [https://github.com/Dakarokoso/Forkify](https://github.com/Dakarakoso/Forkify)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
