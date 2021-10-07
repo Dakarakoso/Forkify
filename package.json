@@ -1,0 +1,32 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Forkify</h1>",
+  "main": "index.js",
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dakarakoso/Forkify.git"
+  },
+  "keywords": [],
+  "author": "Willian Negishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dakarakoso/Forkify/issues"
+  },
+  "homepage": "https://github.com/Dakarakoso/Forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {}
+}
